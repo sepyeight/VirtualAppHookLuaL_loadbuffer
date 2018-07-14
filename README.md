@@ -1,0 +1,6 @@
+# VirtualAppHookLuaL_loadbuffer
+
+看名字就知道
+hook luaL_loadbuffer
+实现了动态替换lua和保存解密lua文件
+主要修改了IOUniformer文件，具体你可以和virtualapp原代码对比查看
